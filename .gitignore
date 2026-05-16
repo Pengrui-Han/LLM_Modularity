@@ -1,0 +1,48 @@
+# Large attribution tensors — regenerate with scripts/run_attribution.py
+*.pt
+*.npy
+
+# Per-pair ablation outputs (regenerate with scripts/run_ablation.py)
+results/*/ablation/
+results/*/random_baselines/
+
+# Regenerable script outputs (the shipped docs/accuracy_table_both_correct.csv
+# is the only tracked file in docs/; the SI summary tables and figures below
+# are produced by scripts/ and should not be committed)
+docs/*summary*
+results/figures/
+results/per_domain_modularity_avgmatrix.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Cluster job scripts / logs
+*.sh
+logs/
+slurm-*.out
+slurm-*.err
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache
+*.bin
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/

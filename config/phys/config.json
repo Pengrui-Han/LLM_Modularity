@@ -1,0 +1,74 @@
+{
+    "phys_newton": {
+        "path": "phys_newton.json",
+        "prefix": "You will be given a physical reasoning question. Answer with just the correct option.\n",
+        "suffix": " Please just answer {correct_answer} or {incorrect_answer}.",
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "phys_prost": {
+        "path": "phys_prost.json",
+        "prefix": "You will be given a physical reasoning question. Answer with just the correct option.\n",
+        "suffix": " Please just answer {correct_answer} or {incorrect_answer}.",
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_buoyancy": {
+        "path": "phys_buoyancy.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_brightness": {
+        "path": "phys_brightness.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_elasticity": {
+        "path": "phys_elasticity.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_solubility": {
+        "path": "phys_solubility.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_speed": {
+        "path": "phys_speed.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_stability": {
+        "path": "phys_stability.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "physics_temperature": {
+        "path": "phys_temperature.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    }
+}

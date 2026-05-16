@@ -1,0 +1,74 @@
+{
+    "agent": {
+        "path": "agent.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "social_interactions": {
+        "path": "social_interactions.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "social_relations": {
+        "path": "social_relations.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "desires_goals": {
+        "path": "desires_goals.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "primary_emotions": {
+        "path": "primary_emotions.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "secondary_emotions": {
+        "path": "secondary_emotions.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "emotion_fewshot": {
+        "path": "emotion_fewshot.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "norm_appropriate": {
+        "path": "norm_appropriate.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    },
+    "norm_moral": {
+        "path": "norm_moral.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "standardize_answers": null,
+        "merging_sign": ""
+    }
+}

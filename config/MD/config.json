@@ -1,0 +1,142 @@
+{
+    "logic_syllogism_1": {
+        "path": "logic_syllogism_1.json",
+        "prefix": "You will be given logical premises and a conclusion. Determine whether the conclusion logically follows from the premises alone. Do not use real-world knowledge. Answer only Yes or No.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "logic_syllogism_symbolic": {
+        "path": "logic_syllogism_symbolic.json",
+        "prefix": null,
+        "suffix": " Reply with only the chosen statement, no other words.",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "logic_propositional_1": {
+        "path": "logic_propositional_1.json",
+        "prefix": null,
+        "suffix": " Reply with only the chosen statement, no other words.",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "logic_propositional_symbolic": {
+        "path": "logic_propositional_symbolic.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "number_sequence": {
+        "path": "number_sequence.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "add_sub_2op_verbal": {
+        "path": "add_sub_2op_verbal.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in words, not digits.",
+        "merging_sign": ""
+    },
+    "add_sub_2op_symbolic": {
+        "path": "add_sub_2op_symbolic.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in digits.",
+        "merging_sign": ""
+    },
+    "add_sub_3op_verbal": {
+        "path": "add_sub_3op_verbal.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in words, not digits.",
+        "merging_sign": ""
+    },
+    "add_sub_3op_symbolic": {
+        "path": "add_sub_3op_symbolic.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in digits.",
+        "merging_sign": ""
+    },
+    "mul_div_2op_verbal": {
+        "path": "mul_div_2op_verbal.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in words, not digits.",
+        "merging_sign": ""
+    },
+    "mul_div_2op_symbolic": {
+        "path": "mul_div_2op_symbolic.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in digits.",
+        "merging_sign": ""
+    },
+    "mul_div_3op_verbal": {
+        "path": "mul_div_3op_verbal.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in words, not digits.",
+        "merging_sign": ""
+    },
+    "mul_div_3op_symbolic": {
+        "path": "mul_div_3op_symbolic.json",
+        "prefix": "What is the answer of ",
+        "suffix": null,
+        "concatenation": "? Please directly give the final answer written in digits.",
+        "merging_sign": ""
+    },
+    "simple_equation": {
+        "path": "simple_equation.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": "? \n Please directly give me the value.",
+        "merging_sign": ""
+    },
+    "number_sorting": {
+        "path": "number_sorting.json",
+        "prefix": null,
+        "suffix": null,
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "code_conditional": {
+        "path": "code_conditional.json",
+        "prefix": "You will be given a Python code snippet. Determine what it prints. Answer with just the value.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "code_loop": {
+        "path": "code_loop.json",
+        "prefix": "You will be given a Python code snippet. Determine what it prints. Answer with just the number.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "code_list": {
+        "path": "code_list.json",
+        "prefix": "You will be given a Python code snippet. Determine what it prints. Answer with just the value.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "code_A": {
+        "path": "code_A.json",
+        "prefix": "You will be given a Python code snippet. Determine what it prints. Answer with just the output value.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    },
+    "code_B": {
+        "path": "code_B.json",
+        "prefix": "You will be given a Python code snippet. Determine what it prints. Answer with just the output value.\n",
+        "suffix": "",
+        "concatenation": null,
+        "merging_sign": ""
+    }
+}

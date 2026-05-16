@@ -1,0 +1,42 @@
+{
+    "anaphor_gender_agreement": {
+        "path": "anaphor_gender_agreement.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "det_noun_agreement_irregular": {
+        "path": "det_noun_agreement_irregular.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "det_noun_agreement_regular": {
+        "path": "det_noun_agreement_regular.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "det_noun_agreement_with_adjective": {
+        "path": "det_noun_agreement_with_adjective.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "subject_verb_agreement": {
+        "path": "subject_verb_agreement.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "npi": {
+        "path": "npi.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "hypernymy": {
+        "path": "hypernymy.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    },
+    "wug": {
+        "path": "wug.json",
+        "merging_sign": "",
+        "force_base_evaluation": true
+    }
+}

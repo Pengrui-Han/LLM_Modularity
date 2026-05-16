@@ -1,0 +1,3042 @@
+[
+  {
+    "clean_problem": "No author that liked no senators has had",
+    "corrupted_problem": "The author that liked no senators has had",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The author that liked no senators has had",
+    "corrupted_problem": "No author that liked no senators has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilot that praised the consultants has shown",
+    "corrupted_problem": "No pilot that praised no consultants has shown",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilot that praised the consultants has shown",
+    "corrupted_problem": "No pilot that praised no consultants has shown",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No surgeon that hated no guards has known",
+    "corrupted_problem": "The surgeon that hated the guards has known",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No surgeon that hated no guards has known",
+    "corrupted_problem": "The surgeon that hated the guards has known",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmer that discussed no clerks has had",
+    "corrupted_problem": "The farmer that discussed the clerks has had",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmer that discussed the clerks has had",
+    "corrupted_problem": "No farmer that discussed no clerks has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that loved no architects has completed",
+    "corrupted_problem": "The manager that loved no architects has completed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that loved no architects has completed",
+    "corrupted_problem": "The manager that loved no architects has completed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that liked no managers has spent",
+    "corrupted_problem": "The customer that liked no managers has spent",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customer that liked no managers has spent",
+    "corrupted_problem": "No customer that liked no managers has spent",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officer that praised no journalists has had",
+    "corrupted_problem": "No officer that praised no journalists has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officer that praised no journalists has had",
+    "corrupted_problem": "The officer that praised no journalists has had",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teacher that hated the ministers has failed",
+    "corrupted_problem": "No teacher that hated no ministers has failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teacher that hated the ministers has failed",
+    "corrupted_problem": "No teacher that hated no ministers has failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senator that admired no taxi drivers has passed",
+    "corrupted_problem": "No senator that admired no taxi drivers has passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senator that admired no taxi drivers has passed",
+    "corrupted_problem": "The senator that admired no taxi drivers has passed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The consultant that loved no secretaries has passed up",
+    "corrupted_problem": "No consultant that loved no secretaries has passed up",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that loved no secretaries has passed up",
+    "corrupted_problem": "The consultant that loved no secretaries has passed up",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guard that liked the executives has seen",
+    "corrupted_problem": "No guard that liked no executives has seen",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guard that liked the executives has seen",
+    "corrupted_problem": "No guard that liked no executives has seen",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The chef that praised no authors has burned",
+    "corrupted_problem": "No chef that praised no authors has burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The chef that praised no authors has burned",
+    "corrupted_problem": "No chef that praised no authors has burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that hated the pilots has had",
+    "corrupted_problem": "No architect that hated no pilots has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that hated the pilots has had",
+    "corrupted_problem": "No architect that hated no pilots has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athlete that helped no doctors has broken",
+    "corrupted_problem": "The athlete that helped the doctors has broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The athlete that helped the doctors has broken",
+    "corrupted_problem": "No athlete that helped no doctors has broken",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No dancer that loved no farmers has broken",
+    "corrupted_problem": "The dancer that loved the farmers has broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No dancer that loved no farmers has broken",
+    "corrupted_problem": "The dancer that loved the farmers has broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The minister that liked no managers has missed",
+    "corrupted_problem": "No minister that liked no managers has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The minister that liked no managers has missed",
+    "corrupted_problem": "No minister that liked no managers has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi driver that praised no customers has crashed",
+    "corrupted_problem": "No taxi driver that praised no customers has crashed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi driver that praised no customers has crashed",
+    "corrupted_problem": "The taxi driver that praised no customers has crashed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The assistant that hated no officers has missed",
+    "corrupted_problem": "No assistant that hated no officers has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The assistant that hated no officers has missed",
+    "corrupted_problem": "No assistant that hated no officers has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executive that knew no teachers has fired",
+    "corrupted_problem": "The executive that knew no teachers has fired",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executive that knew no teachers has fired",
+    "corrupted_problem": "The executive that knew no teachers has fired",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No authors that loved no officer have read",
+    "corrupted_problem": "The authors that loved no officer have read",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No authors that loved no officer have read",
+    "corrupted_problem": "The authors that loved no officer have read",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilots that liked the teacher have landed",
+    "corrupted_problem": "No pilots that liked no teacher have landed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilots that liked the teacher have landed",
+    "corrupted_problem": "No pilots that liked no teacher have landed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctors that praised no senator have failed",
+    "corrupted_problem": "The doctors that praised the senator have failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctors that praised no senator have failed",
+    "corrupted_problem": "The doctors that praised the senator have failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmers that hated no consultant have planted",
+    "corrupted_problem": "The farmers that hated the consultant have planted",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmers that hated the consultant have planted",
+    "corrupted_problem": "No farmers that hated no consultant have planted",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The managers that respected the guard have had",
+    "corrupted_problem": "No managers that respected no guard have had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The managers that respected the guard have had",
+    "corrupted_problem": "No managers that respected no guard have had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customers that loved no chef have purchased",
+    "corrupted_problem": "No customers that loved no chef have purchased",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customers that loved no chef have purchased",
+    "corrupted_problem": "No customers that loved no chef have purchased",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officers that liked no architect have arrested",
+    "corrupted_problem": "The officers that liked the architect have arrested",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officers that liked no architect have arrested",
+    "corrupted_problem": "The officers that liked the architect have arrested",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that praised no athlete have failed",
+    "corrupted_problem": "No teachers that praised no athlete have failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teachers that praised no athlete have failed",
+    "corrupted_problem": "The teachers that praised no athlete have failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senators that hated no dancer have passed",
+    "corrupted_problem": "The senators that hated the dancer have passed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senators that hated no dancer have passed",
+    "corrupted_problem": "The senators that hated the dancer have passed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The consultants that impressed the minister have missed",
+    "corrupted_problem": "No consultants that impressed no minister have missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The consultants that impressed the minister have missed",
+    "corrupted_problem": "No consultants that impressed no minister have missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guards that loved no taxi driver have caught",
+    "corrupted_problem": "No guards that loved no taxi driver have caught",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guards that loved no taxi driver have caught",
+    "corrupted_problem": "The guards that loved no taxi driver have caught",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerks that liked no assistant have burned",
+    "corrupted_problem": "No clerks that liked no assistant have burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No clerks that liked no assistant have burned",
+    "corrupted_problem": "The clerks that liked no assistant have burned",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No architects that praised no executive have passed",
+    "corrupted_problem": "The architects that praised the executive have passed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architects that praised the executive have passed",
+    "corrupted_problem": "No architects that praised no executive have passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that hated no pilot have broken",
+    "corrupted_problem": "The athletes that hated no pilot have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that hated no pilot have broken",
+    "corrupted_problem": "The athletes that hated no pilot have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No journalists that contacted no surgeon have broken",
+    "corrupted_problem": "The journalists that contacted no surgeon have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No journalists that contacted no surgeon have broken",
+    "corrupted_problem": "The journalists that contacted no surgeon have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that loved no farmer have advocated",
+    "corrupted_problem": "The ministers that loved the farmer have advocated",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that loved no farmer have advocated",
+    "corrupted_problem": "The ministers that loved the farmer have advocated",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi drivers that liked no manager have crashed",
+    "corrupted_problem": "The taxi drivers that liked no manager have crashed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi drivers that liked no manager have crashed",
+    "corrupted_problem": "No taxi drivers that liked no manager have crashed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretaries that praised the customer have missed",
+    "corrupted_problem": "No secretaries that praised no customer have missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No secretaries that praised no customer have missed",
+    "corrupted_problem": "The secretaries that praised the customer have missed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executives that hated no officer have refused",
+    "corrupted_problem": "No executives that hated no officer have refused",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executives that hated no officer have refused",
+    "corrupted_problem": "The executives that hated no officer have refused",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The author that the senators liked has had",
+    "corrupted_problem": "No author that no senators liked has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The author that the senators liked has had",
+    "corrupted_problem": "No author that no senators liked has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilot that no consultants praised has shown",
+    "corrupted_problem": "The pilot that no consultants praised has shown",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilot that no consultants praised has shown",
+    "corrupted_problem": "No pilot that no consultants praised has shown",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The surgeon that no guards hated has known",
+    "corrupted_problem": "No surgeon that no guards hated has known",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No surgeon that no guards hated has known",
+    "corrupted_problem": "The surgeon that no guards hated has known",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmer that the clerks discussed has had",
+    "corrupted_problem": "No farmer that no clerks discussed has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmer that no clerks discussed has had",
+    "corrupted_problem": "The farmer that the clerks discussed has had",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The manager that the architects loved has completed",
+    "corrupted_problem": "No manager that no architects loved has completed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that no architects loved has completed",
+    "corrupted_problem": "The manager that the architects loved has completed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that no managers liked has spent",
+    "corrupted_problem": "The customer that no managers liked has spent",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that no managers liked has spent",
+    "corrupted_problem": "The customer that no managers liked has spent",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officer that no journalists praised has had",
+    "corrupted_problem": "No officer that no journalists praised has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officer that no journalists praised has had",
+    "corrupted_problem": "The officer that no journalists praised has had",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teacher that the ministers hated has failed",
+    "corrupted_problem": "No teacher that no ministers hated has failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teacher that no ministers hated has failed",
+    "corrupted_problem": "The teacher that the ministers hated has failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senator that no taxi drivers admired has passed",
+    "corrupted_problem": "The senator that the taxi drivers admired has passed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senator that the taxi drivers admired has passed",
+    "corrupted_problem": "No senator that no taxi drivers admired has passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The consultant that the secretaries loved has passed up",
+    "corrupted_problem": "No consultant that no secretaries loved has passed up",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that no secretaries loved has passed up",
+    "corrupted_problem": "The consultant that the secretaries loved has passed up",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guard that no executives liked has seen",
+    "corrupted_problem": "The guard that no executives liked has seen",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guard that no executives liked has seen",
+    "corrupted_problem": "The guard that no executives liked has seen",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerk that no authors praised has burned",
+    "corrupted_problem": "No clerk that no authors praised has burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerk that no authors praised has burned",
+    "corrupted_problem": "No clerk that no authors praised has burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that no pilots hated has had",
+    "corrupted_problem": "No architect that no pilots hated has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that no pilots hated has had",
+    "corrupted_problem": "No architect that no pilots hated has had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The athlete that the doctors helped has broken",
+    "corrupted_problem": "No athlete that no doctors helped has broken",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athlete that no doctors helped has broken",
+    "corrupted_problem": "The athlete that the doctors helped has broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The dancer that no farmers loved has broken",
+    "corrupted_problem": "No dancer that no farmers loved has broken",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No dancer that no farmers loved has broken",
+    "corrupted_problem": "The dancer that no farmers loved has broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The minister that the managers liked has missed",
+    "corrupted_problem": "No minister that no managers liked has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No minister that no managers liked has missed",
+    "corrupted_problem": "The minister that the managers liked has missed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi driver that the customers praised has crashed",
+    "corrupted_problem": "No taxi driver that no customers praised has crashed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi driver that no customers praised has crashed",
+    "corrupted_problem": "The taxi driver that the customers praised has crashed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretary that the officers hated has missed",
+    "corrupted_problem": "No secretary that no officers hated has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretary that the officers hated has missed",
+    "corrupted_problem": "No secretary that no officers hated has missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executive that the teachers knew has fired",
+    "corrupted_problem": "No executive that no teachers knew has fired",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executive that no teachers knew has fired",
+    "corrupted_problem": "The executive that the teachers knew has fired",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No authors that no officer loved have read",
+    "corrupted_problem": "The authors that the officer loved have read",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No authors that no officer loved have read",
+    "corrupted_problem": "The authors that the officer loved have read",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilots that the teacher liked have landed",
+    "corrupted_problem": "No pilots that no teacher liked have landed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilots that the teacher liked have landed",
+    "corrupted_problem": "No pilots that no teacher liked have landed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The doctors that the senator praised have failed",
+    "corrupted_problem": "No doctors that no senator praised have failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctors that no senator praised have failed",
+    "corrupted_problem": "The doctors that the senator praised have failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmers that no consultant hated have planted",
+    "corrupted_problem": "The farmers that no consultant hated have planted",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmers that no consultant hated have planted",
+    "corrupted_problem": "The farmers that no consultant hated have planted",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The managers that the guard respected have had",
+    "corrupted_problem": "No managers that no guard respected have had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The managers that the guard respected have had",
+    "corrupted_problem": "No managers that no guard respected have had",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customers that no clerk loved have purchased",
+    "corrupted_problem": "No customers that no clerk loved have purchased",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customers that no clerk loved have purchased",
+    "corrupted_problem": "The customers that no clerk loved have purchased",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officers that the architect liked have arrested",
+    "corrupted_problem": "No officers that no architect liked have arrested",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officers that the architect liked have arrested",
+    "corrupted_problem": "No officers that no architect liked have arrested",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that the athlete praised have failed",
+    "corrupted_problem": "No teachers that no athlete praised have failed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teachers that no athlete praised have failed",
+    "corrupted_problem": "The teachers that the athlete praised have failed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senators that no dancer hated have passed",
+    "corrupted_problem": "No senators that no dancer hated have passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senators that no dancer hated have passed",
+    "corrupted_problem": "No senators that no dancer hated have passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultants that no minister impressed have missed",
+    "corrupted_problem": "The consultants that no minister impressed have missed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultants that no minister impressed have missed",
+    "corrupted_problem": "The consultants that no minister impressed have missed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guards that no taxi driver loved have caught",
+    "corrupted_problem": "The guards that no taxi driver loved have caught",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guards that no taxi driver loved have caught",
+    "corrupted_problem": "The guards that no taxi driver loved have caught",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No clerks that no secretary liked have burned",
+    "corrupted_problem": "The clerks that the secretary liked have burned",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerks that the secretary liked have burned",
+    "corrupted_problem": "No clerks that no secretary liked have burned",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architects that the executive praised have passed",
+    "corrupted_problem": "No architects that no executive praised have passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architects that the executive praised have passed",
+    "corrupted_problem": "No architects that no executive praised have passed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that no pilot hated have broken",
+    "corrupted_problem": "The athletes that no pilot hated have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that no pilot hated have broken",
+    "corrupted_problem": "The athletes that no pilot hated have broken",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The journalists that the surgeon contacted have broken",
+    "corrupted_problem": "No journalists that no surgeon contacted have broken",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The journalists that the surgeon contacted have broken",
+    "corrupted_problem": "No journalists that no surgeon contacted have broken",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that no farmer loved have advocated",
+    "corrupted_problem": "The ministers that the farmer loved have advocated",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that no farmer loved have advocated",
+    "corrupted_problem": "The ministers that the farmer loved have advocated",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi drivers that no manager liked have crashed",
+    "corrupted_problem": "The taxi drivers that the manager liked have crashed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi drivers that no manager liked have crashed",
+    "corrupted_problem": "The taxi drivers that the manager liked have crashed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretaries that no customer praised have missed",
+    "corrupted_problem": "No secretaries that no customer praised have missed",
+    "clean_correct": " some",
+    "clean_incorrect": " any",
+    "corrupted_correct": " any",
+    "corrupted_incorrect": " some",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No secretaries that no customer praised have missed",
+    "corrupted_problem": "The secretaries that no customer praised have missed",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executives that no officer hated have refused",
+    "corrupted_problem": "The executives that the officer hated have refused",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executives that no officer hated have refused",
+    "corrupted_problem": "The executives that the officer hated have refused",
+    "clean_correct": " any",
+    "clean_incorrect": " some",
+    "corrupted_correct": " some",
+    "corrupted_incorrect": " any",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No author that liked no senators has",
+    "corrupted_problem": "The author that liked the senators has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No author that liked no senators has",
+    "corrupted_problem": "The author that liked the senators has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilot that met the consultants has",
+    "corrupted_problem": "No pilot that met no consultants has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilot that met no consultants has",
+    "corrupted_problem": "The pilot that met the consultants has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The doctor that hated no guards has",
+    "corrupted_problem": "No doctor that hated no guards has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctor that hated no guards has",
+    "corrupted_problem": "The doctor that hated no guards has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmer that discussed no clerks has",
+    "corrupted_problem": "No farmer that discussed no clerks has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmer that discussed no clerks has",
+    "corrupted_problem": "The farmer that discussed no clerks has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that loved no architects has",
+    "corrupted_problem": "The manager that loved no architects has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that loved no architects has",
+    "corrupted_problem": "The manager that loved no architects has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that liked no athletes has",
+    "corrupted_problem": "The customer that liked no athletes has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customer that liked no athletes has",
+    "corrupted_problem": "No customer that liked no athletes has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officer that met no actors has",
+    "corrupted_problem": "No officer that met no actors has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officer that met no actors has",
+    "corrupted_problem": "The officer that met no actors has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teacher that hated no ministers has",
+    "corrupted_problem": "The teacher that hated no ministers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teacher that hated no ministers has",
+    "corrupted_problem": "No teacher that hated no ministers has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senator that admired the taxi drivers has",
+    "corrupted_problem": "No senator that admired no taxi drivers has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senator that admired no taxi drivers has",
+    "corrupted_problem": "The senator that admired the taxi drivers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that loved no secretaries has",
+    "corrupted_problem": "The consultant that loved no secretaries has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that loved no secretaries has",
+    "corrupted_problem": "The consultant that loved no secretaries has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guard that liked no executives has",
+    "corrupted_problem": "The guard that liked the executives has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guard that liked the executives has",
+    "corrupted_problem": "No guard that liked no executives has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerk that met the authors has",
+    "corrupted_problem": "No clerk that met no authors has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No clerk that met no authors has",
+    "corrupted_problem": "The clerk that met the authors has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that hated no pilots has",
+    "corrupted_problem": "No architect that hated no pilots has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that hated no pilots has",
+    "corrupted_problem": "No architect that hated no pilots has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athlete that helped no doctors has",
+    "corrupted_problem": "The athlete that helped no doctors has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athlete that helped no doctors has",
+    "corrupted_problem": "The athlete that helped no doctors has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The actor that loved the farmers has",
+    "corrupted_problem": "No actor that loved no farmers has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No actor that loved no farmers has",
+    "corrupted_problem": "The actor that loved the farmers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No minister that liked no managers has",
+    "corrupted_problem": "The minister that liked the managers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No minister that liked no managers has",
+    "corrupted_problem": "The minister that liked the managers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi driver that met no customers has",
+    "corrupted_problem": "The taxi driver that met the customers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi driver that met the customers has",
+    "corrupted_problem": "No taxi driver that met no customers has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretary that hated no officers has",
+    "corrupted_problem": "No secretary that hated no officers has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No secretary that hated no officers has",
+    "corrupted_problem": "The secretary that hated no officers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executive that discussed no teachers has",
+    "corrupted_problem": "The executive that discussed the teachers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executive that discussed no teachers has",
+    "corrupted_problem": "The executive that discussed the teachers has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No authors that loved no officer have",
+    "corrupted_problem": "The authors that loved the officer have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The authors that loved the officer have",
+    "corrupted_problem": "No authors that loved no officer have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilots that liked the teacher have",
+    "corrupted_problem": "No pilots that liked no teacher have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilots that liked no teacher have",
+    "corrupted_problem": "The pilots that liked the teacher have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The doctors that met no senator have",
+    "corrupted_problem": "No doctors that met no senator have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The doctors that met no senator have",
+    "corrupted_problem": "No doctors that met no senator have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmers that hated no consultant have",
+    "corrupted_problem": "No farmers that hated no consultant have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmers that hated no consultant have",
+    "corrupted_problem": "No farmers that hated no consultant have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No managers that respected no guard have",
+    "corrupted_problem": "The managers that respected no guard have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No managers that respected no guard have",
+    "corrupted_problem": "The managers that respected no guard have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customers that loved no clerk have",
+    "corrupted_problem": "The customers that loved the clerk have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customers that loved no clerk have",
+    "corrupted_problem": "The customers that loved the clerk have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officers that liked the architect have",
+    "corrupted_problem": "No officers that liked no architect have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officers that liked no architect have",
+    "corrupted_problem": "The officers that liked the architect have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that met the athlete have",
+    "corrupted_problem": "No teachers that met no athlete have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that met the athlete have",
+    "corrupted_problem": "No teachers that met no athlete have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senators that hated no actor have",
+    "corrupted_problem": "No senators that hated no actor have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senators that hated no actor have",
+    "corrupted_problem": "No senators that hated no actor have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultants that impressed no minister have",
+    "corrupted_problem": "The consultants that impressed no minister have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The consultants that impressed no minister have",
+    "corrupted_problem": "No consultants that impressed no minister have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guards that loved no taxi driver have",
+    "corrupted_problem": "The guards that loved the taxi driver have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guards that loved the taxi driver have",
+    "corrupted_problem": "No guards that loved no taxi driver have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No clerks that liked no secretary have",
+    "corrupted_problem": "The clerks that liked the secretary have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerks that liked the secretary have",
+    "corrupted_problem": "No clerks that liked no secretary have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architects that met the executive have",
+    "corrupted_problem": "No architects that met no executive have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No architects that met no executive have",
+    "corrupted_problem": "The architects that met the executive have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that hated no pilot have",
+    "corrupted_problem": "The athletes that hated no pilot have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The athletes that hated no pilot have",
+    "corrupted_problem": "No athletes that hated no pilot have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No journalists that contacted no doctor have",
+    "corrupted_problem": "The journalists that contacted the doctor have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The journalists that contacted the doctor have",
+    "corrupted_problem": "No journalists that contacted no doctor have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that loved no farmer have",
+    "corrupted_problem": "The ministers that loved no farmer have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that loved no farmer have",
+    "corrupted_problem": "The ministers that loved no farmer have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi drivers that liked no manager have",
+    "corrupted_problem": "No taxi drivers that liked no manager have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi drivers that liked no manager have",
+    "corrupted_problem": "No taxi drivers that liked no manager have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretaries that met no customer have",
+    "corrupted_problem": "No secretaries that met no customer have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No secretaries that met no customer have",
+    "corrupted_problem": "The secretaries that met no customer have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executives that hated the officer have",
+    "corrupted_problem": "No executives that hated no officer have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executives that hated the officer have",
+    "corrupted_problem": "No executives that hated no officer have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The author that the senators liked has",
+    "corrupted_problem": "No author that no senators liked has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The author that the senators liked has",
+    "corrupted_problem": "No author that no senators liked has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilot that no consultants met has",
+    "corrupted_problem": "The pilot that no consultants met has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The pilot that no consultants met has",
+    "corrupted_problem": "No pilot that no consultants met has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctor that no guards hated has",
+    "corrupted_problem": "The doctor that the guards hated has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctor that no guards hated has",
+    "corrupted_problem": "The doctor that the guards hated has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmer that the clerks discussed has",
+    "corrupted_problem": "No farmer that no clerks discussed has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmer that no clerks discussed has",
+    "corrupted_problem": "The farmer that the clerks discussed has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that no architects loved has",
+    "corrupted_problem": "The manager that no architects loved has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No manager that no architects loved has",
+    "corrupted_problem": "The manager that no architects loved has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that no athletes liked has",
+    "corrupted_problem": "The customer that the athletes liked has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customer that no athletes liked has",
+    "corrupted_problem": "The customer that the athletes liked has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officer that no actors met has",
+    "corrupted_problem": "The officer that no actors met has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officer that no actors met has",
+    "corrupted_problem": "No officer that no actors met has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teacher that no ministers hated has",
+    "corrupted_problem": "The teacher that no ministers hated has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No teacher that no ministers hated has",
+    "corrupted_problem": "The teacher that no ministers hated has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senator that no taxi drivers admired has",
+    "corrupted_problem": "The senator that no taxi drivers admired has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senator that no taxi drivers admired has",
+    "corrupted_problem": "The senator that no taxi drivers admired has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that no secretaries loved has",
+    "corrupted_problem": "The consultant that no secretaries loved has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultant that no secretaries loved has",
+    "corrupted_problem": "The consultant that no secretaries loved has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guard that the executives liked has",
+    "corrupted_problem": "No guard that no executives liked has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guard that no executives liked has",
+    "corrupted_problem": "The guard that the executives liked has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerk that no authors met has",
+    "corrupted_problem": "No clerk that no authors met has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No clerk that no authors met has",
+    "corrupted_problem": "The clerk that no authors met has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No architect that no pilots hated has",
+    "corrupted_problem": "The architect that no pilots hated has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architect that no pilots hated has",
+    "corrupted_problem": "No architect that no pilots hated has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athlete that no doctors helped has",
+    "corrupted_problem": "The athlete that no doctors helped has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The athlete that no doctors helped has",
+    "corrupted_problem": "No athlete that no doctors helped has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The actor that no farmers loved has",
+    "corrupted_problem": "No actor that no farmers loved has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No actor that no farmers loved has",
+    "corrupted_problem": "The actor that no farmers loved has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The minister that the managers liked has",
+    "corrupted_problem": "No minister that no managers liked has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No minister that no managers liked has",
+    "corrupted_problem": "The minister that the managers liked has",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi driver that the customers met has",
+    "corrupted_problem": "No taxi driver that no customers met has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The taxi driver that the customers met has",
+    "corrupted_problem": "No taxi driver that no customers met has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretary that the officers hated has",
+    "corrupted_problem": "No secretary that no officers hated has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretary that the officers hated has",
+    "corrupted_problem": "No secretary that no officers hated has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executive that the teachers discussed has",
+    "corrupted_problem": "No executive that no teachers discussed has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The executive that the teachers discussed has",
+    "corrupted_problem": "No executive that no teachers discussed has",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The authors that the officer loved have",
+    "corrupted_problem": "No authors that no officer loved have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The authors that the officer loved have",
+    "corrupted_problem": "No authors that no officer loved have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilots that no teacher liked have",
+    "corrupted_problem": "The pilots that no teacher liked have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No pilots that no teacher liked have",
+    "corrupted_problem": "The pilots that no teacher liked have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No doctors that no senator met have",
+    "corrupted_problem": "The doctors that no senator met have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The doctors that no senator met have",
+    "corrupted_problem": "No doctors that no senator met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The farmers that the consultant hated have",
+    "corrupted_problem": "No farmers that no consultant hated have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No farmers that no consultant hated have",
+    "corrupted_problem": "The farmers that the consultant hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No managers that no guard respected have",
+    "corrupted_problem": "The managers that the guard respected have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No managers that no guard respected have",
+    "corrupted_problem": "The managers that the guard respected have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No customers that no clerk loved have",
+    "corrupted_problem": "The customers that no clerk loved have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The customers that no clerk loved have",
+    "corrupted_problem": "No customers that no clerk loved have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No officers that no architect liked have",
+    "corrupted_problem": "The officers that no architect liked have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The officers that no architect liked have",
+    "corrupted_problem": "No officers that no architect liked have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that no athlete met have",
+    "corrupted_problem": "No teachers that no athlete met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The teachers that no athlete met have",
+    "corrupted_problem": "No teachers that no athlete met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The senators that no actor hated have",
+    "corrupted_problem": "No senators that no actor hated have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No senators that no actor hated have",
+    "corrupted_problem": "The senators that no actor hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultants that no minister impressed have",
+    "corrupted_problem": "The consultants that no minister impressed have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No consultants that no minister impressed have",
+    "corrupted_problem": "The consultants that no minister impressed have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No guards that no taxi driver loved have",
+    "corrupted_problem": "The guards that the taxi driver loved have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The guards that the taxi driver loved have",
+    "corrupted_problem": "No guards that no taxi driver loved have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerks that no secretary liked have",
+    "corrupted_problem": "No clerks that no secretary liked have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The clerks that no secretary liked have",
+    "corrupted_problem": "No clerks that no secretary liked have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No architects that no executive met have",
+    "corrupted_problem": "The architects that no executive met have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The architects that no executive met have",
+    "corrupted_problem": "No architects that no executive met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that no pilot hated have",
+    "corrupted_problem": "The athletes that no pilot hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No athletes that no pilot hated have",
+    "corrupted_problem": "The athletes that no pilot hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No journalists that no doctor contacted have",
+    "corrupted_problem": "The journalists that the doctor contacted have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No journalists that no doctor contacted have",
+    "corrupted_problem": "The journalists that the doctor contacted have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No ministers that no farmer loved have",
+    "corrupted_problem": "The ministers that the farmer loved have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The ministers that the farmer loved have",
+    "corrupted_problem": "No ministers that no farmer loved have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi drivers that no manager liked have",
+    "corrupted_problem": "The taxi drivers that no manager liked have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No taxi drivers that no manager liked have",
+    "corrupted_problem": "The taxi drivers that no manager liked have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretaries that no customer met have",
+    "corrupted_problem": "No secretaries that no customer met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "The secretaries that no customer met have",
+    "corrupted_problem": "No secretaries that no customer met have",
+    "clean_correct": " never",
+    "clean_incorrect": " ever",
+    "corrupted_correct": " ever",
+    "corrupted_incorrect": " never",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executives that no officer hated have",
+    "corrupted_problem": "The executives that no officer hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  },
+  {
+    "clean_problem": "No executives that no officer hated have",
+    "corrupted_problem": "The executives that no officer hated have",
+    "clean_correct": " ever",
+    "clean_incorrect": " never",
+    "corrupted_correct": " never",
+    "corrupted_incorrect": " ever",
+    "paradigm": "npi",
+    "source": "hanna_et_al"
+  }
+]

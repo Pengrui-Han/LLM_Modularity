@@ -1,0 +1,174 @@
+{
+  "clean_baseline": 4.0234375,
+  "corrupted_baseline": -4.08203125,
+  "clean_accuracy": 0.853065550327301,
+  "corrupted_accuracy": 0.15010571479797363,
+  "n_both_correct": 691,
+  "n_total": 946,
+  "both_correct_pct": 0.7304,
+  "avg_clean_correct_lp": -7.97265625,
+  "avg_clean_incorrect_lp": -11.9921875,
+  "avg_corrupted_correct_lp": -12.0234375,
+  "avg_corrupted_incorrect_lp": -7.9453125,
+  "debug_samples": [
+    {
+      "index": 633,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-10, -10, ?, -30, -50<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-20",
+      "incorrect_answer": "-50",
+      "clean_correct_lp": -10.7656,
+      "clean_incorrect_lp": -12.4219,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.7754,
+      "correct": true
+    },
+    {
+      "index": 643,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-8, -4, -10, -9, -15, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-17",
+      "incorrect_answer": "-15",
+      "clean_correct_lp": -11.7188,
+      "clean_incorrect_lp": -11.75,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.5283,
+      "correct": true
+    },
+    {
+      "index": 849,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n3, -1, -3, ?, -5, -5<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-4",
+      "incorrect_answer": "-5",
+      "clean_correct_lp": -8.6484,
+      "clean_incorrect_lp": -7.0703,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.6372,
+      "correct": false
+    },
+    {
+      "index": 882,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-8, -4, -2, -1, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-1",
+      "incorrect_answer": "-2",
+      "clean_correct_lp": -8.7344,
+      "clean_incorrect_lp": -11.5625,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.22,
+      "correct": true
+    },
+    {
+      "index": 906,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-4, ?, -1, -1, -1, -1<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-2",
+      "incorrect_answer": "-1",
+      "clean_correct_lp": -9.2891,
+      "clean_incorrect_lp": -10.5703,
+      "model_top_token": "It",
+      "model_top_token_lp": -1.1367,
+      "correct": true
+    }
+  ],
+  "clean_error_samples": [
+    {
+      "index": 68,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-9, ?, -10, -6, -12, -9<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-3",
+      "incorrect_answer": "-9",
+      "clean_correct_lp": -9.7656,
+      "clean_incorrect_lp": -9.1094,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.4507
+    },
+    {
+      "index": 123,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-7, -7, -14, -21, -35, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-56",
+      "incorrect_answer": "-7",
+      "clean_correct_lp": -8.0703,
+      "clean_incorrect_lp": -7.1133,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.4661
+    },
+    {
+      "index": 285,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n6, 3, 1, 0, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "0",
+      "incorrect_answer": "1",
+      "clean_correct_lp": -7.7148,
+      "clean_incorrect_lp": -6.2461,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.4336
+    },
+    {
+      "index": 346,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-8, -10, -20, -32, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-54",
+      "incorrect_answer": "-32",
+      "clean_correct_lp": -13.9375,
+      "clean_incorrect_lp": -12.7812,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.5869
+    },
+    {
+      "index": 550,
+      "clean_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n10, ?, 12, 11, 17<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "5",
+      "incorrect_answer": "17",
+      "clean_correct_lp": -9.9141,
+      "clean_incorrect_lp": -9.2109,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.979
+    }
+  ],
+  "corrupted_error_samples": [
+    {
+      "index": 94,
+      "corrupted_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-5, -10, -12, -13, -14, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-10",
+      "incorrect_answer": "-14",
+      "corrupted_correct_lp": -11.5,
+      "corrupted_incorrect_lp": -11.5781,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.6382
+    },
+    {
+      "index": 262,
+      "corrupted_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-10, -10, -20, -30, -50, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-10",
+      "incorrect_answer": "-80",
+      "corrupted_correct_lp": -6.7617,
+      "corrupted_incorrect_lp": -7.1484,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.4407
+    },
+    {
+      "index": 332,
+      "corrupted_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n-10, -5, -13, -12, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "-13",
+      "incorrect_answer": "-19",
+      "corrupted_correct_lp": -10.2891,
+      "corrupted_incorrect_lp": -12.5312,
+      "model_top_token": "To",
+      "model_top_token_lp": -0.8701
+    },
+    {
+      "index": 829,
+      "corrupted_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n5, 2, 1, 0, 0, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "1",
+      "incorrect_answer": "0",
+      "corrupted_correct_lp": -5.3164,
+      "corrupted_incorrect_lp": -6.8164,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.5757
+    },
+    {
+      "index": 899,
+      "corrupted_prompt": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n3, 1, 0, 0, 0, ?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+      "correct_answer": "1",
+      "incorrect_answer": "0",
+      "corrupted_correct_lp": -4.3516,
+      "corrupted_incorrect_lp": -6.1484,
+      "model_top_token": "The",
+      "model_top_token_lp": -0.665
+    }
+  ]
+}

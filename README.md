@@ -1,4 +1,5 @@
-# Emergence of a Human-like Modular Cognitive Architecture in Large Language Models
+# Modular Cognitive Architecture Emerges in Large Language Models
+
 
 <p align="left">
     <a href="https://pengrui-han.github.io/LLM_Modularity_Page/">

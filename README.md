@@ -2,15 +2,9 @@
 
 
 <p align="left">
-    <a href="https://pengrui-han.github.io/LLM_Modularity_Page/">
-        <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue">
-    </a>
-    <a href="#">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-TBD-red?logo=arxiv">
-    </a>
-    <a href="LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green">
-    </a>
+    <a href="https://pengrui-han.github.io/LLM_Modularity_Page/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue"></a>
+    <a href="#"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-TBD-red?logo=arxiv"></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 </p>
 <!-- arXiv badge is a placeholder; set the link + id on publication. -->
 

@@ -85,6 +85,16 @@ as a task-competence control (SI §5).
 
 ---
 
+## System requirements
+
+- **OS:** Linux (developed on Rocky Linux 8.10)
+- **Python:** 3.10
+- **Key packages** (full list in `requirements.txt`): torch 2.10.0, nnsight 0.4.1,
+  transformers 4.57.6, numpy 1.26.4, scipy 1.15.3, pandas 2.3.3, scikit-learn,
+  matplotlib 3.10.8, einops 0.8.2
+- **GPU:** an NVIDIA GPU is required; the 24B–123B models need multiple GPUs (our
+  experiments used A100, H100, and H200 GPUs). Plotting and statistics run on CPU.
+
 ## Installation
 
 ```bash
